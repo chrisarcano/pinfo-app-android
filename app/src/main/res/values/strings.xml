@@ -1,5 +1,8 @@
 <resources>
-    <string name="app_name">PInfo</string>
+    <string name="app_name">PInfo Personal Information App</string>
     <string name="edit_message">Enter a message</string>
     <string name="button_send">Send</string>
+    <string name="welcome_message">Welcome!</string>
+    <string name="title_expense_list">Expense List</string>
+    <string name="button_start">Start</string>
 </resources>
